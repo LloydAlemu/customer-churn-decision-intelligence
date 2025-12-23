@@ -7,6 +7,7 @@ __pycache__/
 
 # Data files (keep local)
 data/*.csv
+!data/telco_churn.csv
 data/raw/
 data/processed/
 
